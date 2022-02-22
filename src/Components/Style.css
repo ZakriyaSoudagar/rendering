@@ -1,0 +1,32 @@
+.block{
+    display: inline-block;
+    width: 550px;
+    height: 270px;
+    border-radius: 10px;
+    background: rebeccapurple;
+    border: 1px solid grey;
+    margin: 40px;
+}
+.line
+{
+    color: aqua;
+}
+.btn
+{
+    width: 20rem;
+    height: 5rem;
+    background: purple;
+    border-radius: 2rem;
+    border: 2px solid black;
+    display: inline-block;
+    margin-right: 10em;
+    margin-left: 5rem;
+    color: beige;
+    font-size: 18px;
+}
+.background
+{
+    background-image: linear-gradient(blue,red,yellow,purple);
+    width: auto;
+    height: auto;
+}
